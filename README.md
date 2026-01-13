@@ -11,5 +11,5 @@
 - 🎌 CTF
 
 ### 🧠 Core
-- 📏 Discrete Mathematics, Linear Algebra and Calculus, Probability and Statistics
+- 📏 Discrete Mathematics, Vector Calculus & Differential Equations, Linear Algebra and Calculus, Probability and Statistics
 - 🧩 Data Structures & Algorithms
