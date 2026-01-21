@@ -1,15 +1,14 @@
 # ようこそ/Welcome!
 ---
-## 🎯 My skills
-### 🗣️ Languages
-- 👨‍💻 Python, C, Bash
-- 💽 MySQL
+##  My skills
+### Languages
+- Python, C, Bash
+- MySQL
 
-### 🔐 Cybersecurity 
-- 🛠️ Wireshark, tcpdump
-- 🖥️ Kali linux
-- 🎌 CTF
+### Cybersecurity 
+-  Wireshark, tcpdump
+-  Kali linux
+-  CTF
 
-### 🧠 Core
-- 📏 Discrete Mathematics, Vector Calculus & Differential Equations, Linear Algebra and Calculus, Probability and Statistics
-- 🧩 Data Structures & Algorithms
+###  Core
+-  Data Structures & Algorithms
