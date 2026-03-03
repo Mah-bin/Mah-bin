@@ -6,7 +6,7 @@
 - MySQL
 
 ### Cybersecurity 
--  Wireshark, tcpdump
+-  Wireshark
 -  Kali linux
 -  CTF
 
