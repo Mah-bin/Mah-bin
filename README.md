@@ -1,7 +1,7 @@
 <div align="center">
 
 # ようこそ / Welcome!
-### Mah-bin | Cybersecurity & Dev | CTF Player
+### Mahel | Cybersecurity & Dev | CTF Player
 
 ---
 
