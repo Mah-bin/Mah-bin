@@ -1,3 +1,12 @@
+<div align="center">
+
+# ようこそ / Welcome!
+### Mahel | Cybersecurity & Dev | CTF Player
+
+---
+
+</div>
+
 ## 🖥️ About Me
 
 ```bash
@@ -14,7 +23,7 @@ $ cat skills.json
   "malware_analysis":   ["Ghidra"],
   "penetration_testing":["Kali Linux"],
   "certifications":     ["Google Cybersecurity Professional Certificate (v.2)"],
-  "platforms":          ["HackTheBox", "crackmes.one"]
+  "platforms":          ["HackTheBox", "crackmes.one", "picoCTF"]
 }
 ```
 
@@ -37,7 +46,7 @@ $ cat skills.json
 
 **Malware Analysis**
 
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=00FF41)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF41)
 
 **Penetration Testing**
 
@@ -50,6 +59,18 @@ $ cat skills.json
 **Training & Platforms**
 
 ![HackTheBox](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![crackmes](https://img.shields.io/badge/crackmes.one-000000?style=for-the-badge&logo=hackaday&logoColor=00FF41)
+![crackmes](https://img.shields.io/badge/crackmes.one-000000?style=for-the-badge&logoColor=00FF41)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&animation=fadeIn" />
+
+<!-- Visitor counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Mah-bin&color=00ff41&style=flat-square&label=VISITORS)
 
 </div>
