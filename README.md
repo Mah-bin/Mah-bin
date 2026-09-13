@@ -3,7 +3,7 @@
 # ようこそ / Welcome!
 ### Mahel | Cybersecurity & Dev | CTF Player
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=1000" />
 
 </div>
 
@@ -23,11 +23,13 @@ $ cat skills.json
   "malware_analysis":   ["Ghidra"],
   "penetration_testing":["Kali Linux"],
   "certifications":     ["Google Cybersecurity Professional Certificate (v.2)"],
-  "platforms":          ["HackTheBox", "crackmes.one", "picoCTF"]
+  "platforms":          ["HackTheBox", "crackmes.one"]
 }
 ```
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=1000" />
+</div>
 
 ## 🛠️ Skills
 
@@ -63,7 +65,9 @@ $ cat skills.json
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=3&width=1000" />
+</div>
 
 <div align="center">
 
